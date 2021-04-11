@@ -24,10 +24,13 @@ The repo will automatically clock the newest class in Young Study Web depending 
 2. Fork the repo
 3. New repositoty secret `TOKEN` and fill in `token`
 
-- If you want to change Github Action, please edit[clock.yml](.github/workflows/clock.yml)
+- If you want to change Github Action, please edit [clock.yml](.github/workflows/clock.yml)
 
 ## License
 
 本项目遵守`GPT3.0`开源协议
 
 The repo is under `GPT3.0` License
+
+## Status
+[![Young study clock CI](https://github.com/uniartisan/young-study-action/actions/workflows/clock.yml/badge.svg)](https://github.com/uniartisan/young-study-action/actions/workflows/clock.yml)
